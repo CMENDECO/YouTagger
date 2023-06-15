@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'YouTaggerModel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7480E1B96374615A70726080B9A25EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABA0D4E5BAB546468A2245D980602B26 }}
